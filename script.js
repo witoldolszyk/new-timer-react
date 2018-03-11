@@ -8,7 +8,7 @@ class Stopwatch extends React.Component {
       seconds: 0,
       miliseconds: 0
     }
-    // this.print()
+
   }
 
   reset() {
